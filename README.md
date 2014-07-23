@@ -1,4 +1,4 @@
 Getting-and-Cleaning-Data-Course-Project
 ========================================
 
-Coursera Course for Data Specialization
+The instructions of these projects are in the R file.
