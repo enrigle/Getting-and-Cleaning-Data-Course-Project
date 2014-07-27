@@ -100,6 +100,7 @@ logicalMeanStand = (grepl("activity",names) | grepl("subject",names) |
 
 SamsungData_MS = SamsungData[mean_standard==TRUE]
 
+# 3. Uses descriptive activity names to name the activities in the data set
 # 4. Appropriately label the data set with descriptive activity names.
 names <- names(SamsungData_MS)
 names
